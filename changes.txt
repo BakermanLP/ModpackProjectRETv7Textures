@@ -5,6 +5,7 @@ version 5
  v.5.0
 Version 4
  v.4.6
- -Überflüssige Texturen entfernt ( https://github.com/BakermanLP/ModpackProjectRETv7Textures/commit/f2fd70c653b815461d16bc012a2707b846d46c65 ) -Alheimerjung
- -neu start des Texturen Pack Changelog -Alheimerjung
- -alle Texturen die in https://github.com/Soartex-Modded/Modded-1.7.x vorhanden sind gelöscht -Alheimerjung
+  25.11.2014
+  -Überflüssige Texturen entfernt ( https://github.com/BakermanLP/ModpackProjectRETv7Textures/commit/f2fd70c653b815461d16bc012a2707b846d46c65 ) -Alheimerjung
+  -neu start des Texturen Pack Changelog -Alheimerjung
+  -alle Texturen die in https://github.com/Soartex-Modded/Modded-1.7.x vorhanden sind gelöscht -Alheimerjung
