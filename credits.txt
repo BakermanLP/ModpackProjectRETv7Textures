@@ -1,23 +1,38 @@
 Die Credits für das Texturenpack ProjektREDv7.
 Das Texturenpack vom Modpack ProjektREDv7.
-------------------------------------------Admin----------------------------------------------------
--BakermanLP = Ist der Admin das sagt schon alles.
-------------------------------------------Helfer---------------------------------------------------
--Alheimerjung = Alles mogliche
--DirkSch =  Haubtsächlich Makanism,EnderIO aber auch anderes
+Diese Texturen sind ein Addon zum Texturenpack Soartex.
 
-  -----------------------------------------Mitarbeiter im einzelnen----------------------------------
+-------------------------------------------Admin----------------------------------------------------
+
+-BakermanLP = Ist der Admin, das sagt schon alles
+
+------------------------------------------Mitarbeiter-----------------------------------------------
+
+-Alheimerjung = Macht alles auser Müll
+
+ --------------------------------------Zur Zeit Ehemaliger Mitarbeiter------------------------------------
+ 
+ -DirkSch =  (Ehemaliger Mitarbeiter )Haubtsächlich Makanism,EnderIO aber auch anderes
+
+  -----------------------------------------Mitarbeiter im einzelnen---------------------------------
                                                BakermanLP
     Youtube:https://www.youtube.com/channel/UCfqHyvbQ3Q_CmDmbhl8qTrA
     Google+:https://plus.google.com/+BakermanlpDe/posts
     Twitter:https://twitter.com/BakermanLP
+	GitHub:https://github.com/BakermanLP
+	
                                               Alheimerjung
     Google+:https://plus.google.com/106966809901922908898/posts
+	GitHub:https://github.com/Alheimerjung
+	
                                                 DirkSch
     Google+:s://plus.google.com/111759490357635539713/posts
     Twitter:https://twitter.com/DirkSchulze74
     Youtube:https://www.youtube.com/channel/UCMETKLfhfAC-pKDLgfp1nZw
     Facebook:https://www.facebook.com/people/Dirk-Schulze/100004481325180
+	GitHub:https://github.com/DirkSch
+	
 -----------------------------------------ProjektRedv7----------------------------------------------
 Forum:https://www.projectret.de/forum/minecraft-modpack-project-ret-v7
 Google+:https://plus.google.com/communities/105617068751891532183
+GitHub:https://github.com/BakermanLP/ModpackProjectRETv7
