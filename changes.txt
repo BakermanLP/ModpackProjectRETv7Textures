@@ -1,11 +1,18 @@
 ProjektREDv7Textures Changelog
  
  
-Version 4
+Pack Version 4.0
+
+
  v.4.7
  
+  28.11.2014
+   -Stadt Racketen Bild
+   -Magierturm Bild der Stadt
+   
   26.11.2014
    -Trivolo Bild
+   
  v.4.6
  
   25.11.2014
