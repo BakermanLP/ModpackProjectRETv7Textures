@@ -3,6 +3,10 @@ ProjektREDv7Textures Changelog
  
 Pack Version 4.0
 
+ v4.8
+  4.12.2014
+   -Ic2 Miner Gui -DirkSch
+   -Ic2 Transformer Gui Fix -DirkSch
 
  v.4.7
  
