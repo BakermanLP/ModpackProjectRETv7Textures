@@ -2,6 +2,14 @@ ProjektREDv7Textures Changelog
  
  
 Pack Version 4.0
+   
+   26.12.2014
+   Texturen für GregTech's Hazard Blöcke erstellt
+     - Bio Hazard Sign Block
+     - Explosion Hazard Sign Block
+     - Acid Hazard Sign Block
+     - Magic Hazard Sign Block
+     - Noise Hazard Sign Block
 
  v4.8
   4.12.2014
