@@ -2,6 +2,8 @@ ProjektREDv7Textures Changelog
  
  
 Pack Version 4.0
+   27.12.2014
+   Tinkes Construct Itemcasts und Pattern erstellt 
    
    26.12.2014
    Texturen für GregTech's Hazard Blöcke erstellt
