@@ -1,5 +1,8 @@
 ProjektREDv7Textures Changelog
- 
+
+   27.03.2015
+      EnderIO Gui Change Farmstation and Vacumchest  
+              Wildget name change	  
  
 Pack Version 4.0
    27.12.2014
